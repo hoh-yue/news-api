@@ -75,7 +75,7 @@ GET http://localhost:3000/
 
 ### Response:
 
-```json
+```
 Hello from new api!
 ```
 
